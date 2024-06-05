@@ -1,0 +1,9 @@
+.contact {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.contact p {
+    margin: 0;
+}
